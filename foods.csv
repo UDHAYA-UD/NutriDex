@@ -1,0 +1,492 @@
+name,calories,protein,carbs,fat,category,veg
+White Rice (cooked),130,2.7,28.2,0.3,Grains,True
+Brown Rice (cooked),111,2.6,23.0,0.9,Grains,True
+Basmati Rice (cooked),121,3.5,25.2,0.4,Grains,True
+Chapati,104,3.1,18.0,2.5,Grains,True
+Whole Wheat Chapati,100,3.5,17.0,2.3,Grains,True
+Idli (1 piece),39,1.9,7.9,0.1,Grains,True
+Dosa,168,3.9,25.0,6.0,Grains,True
+Poha,180,3.5,35.0,4.0,Grains,True
+Upma,170,4.0,28.0,5.0,Grains,True
+Paratha (plain),260,5.0,36.0,10.0,Grains,True
+Aloo Paratha,320,6.0,45.0,13.0,Grains,True
+Gobi Paratha,300,6.5,42.0,11.0,Grains,True
+Paneer Paratha,350,12.0,38.0,16.0,Grains,True
+Bread White (1 slice),79,2.7,15.0,1.0,Grains,True
+Bread Brown (1 slice),69,3.5,12.0,1.0,Grains,True
+Oats (cooked),71,2.5,12.0,1.5,Grains,True
+Cornflakes,357,8.0,84.0,0.4,Grains,True
+Muesli,367,10.0,66.0,7.0,Grains,True
+Puri (1 piece),150,2.5,18.0,8.0,Grains,True
+Naan,262,8.7,45.0,5.1,Grains,True
+Kulcha,240,7.0,42.0,5.0,Grains,True
+Bhatura,310,7.0,45.0,12.0,Grains,True
+Rava Upma,165,3.5,27.0,5.0,Grains,True
+Vermicelli Upma,180,4.0,32.0,4.5,Grains,True
+Semiya Payasam,220,5.0,38.0,6.0,Grains,True
+Rava Idli,90,3.0,15.0,2.5,Grains,True
+Uttapam,198,5.5,32.0,5.5,Grains,True
+Pesarattu,160,8.0,24.0,4.0,Grains,True
+Akki Roti,190,3.5,38.0,2.5,Grains,True
+Jowar Roti,97,3.2,20.0,1.0,Grains,True
+Bajra Roti,105,3.6,21.0,1.5,Grains,True
+Ragi Mudde,145,3.0,30.0,0.8,Grains,True
+Ragi Dosa,140,4.0,25.0,3.0,Grains,True
+Idiyappam,170,2.5,37.0,0.5,Grains,True
+Appam,120,2.0,24.0,1.5,Grains,True
+Puttu,180,3.5,38.0,1.0,Grains,True
+Pongal,220,5.0,38.0,7.0,Grains,True
+Khichdi,190,7.0,32.0,4.5,Grains,True
+Pulao,210,4.5,38.0,5.0,Grains,True
+Jeera Rice,155,3.0,30.0,3.5,Grains,True
+Chicken Breast (cooked),165,31.0,0.0,3.6,Protein,False
+Chicken Thigh (cooked),209,26.0,0.0,11.0,Protein,False
+Chicken Drumstick,185,24.0,0.0,9.5,Protein,False
+Chicken Wings,203,19.0,0.0,13.5,Protein,False
+Tandoori Chicken (100g),195,25.0,4.0,9.0,Protein,False
+Chicken Tikka (100g),180,26.0,3.0,7.0,Protein,False
+Mutton (cooked),294,25.0,0.0,21.0,Protein,False
+Mutton Keema (100g),280,22.0,2.0,20.0,Protein,False
+Beef (cooked),250,26.0,0.0,16.0,Protein,False
+Pork (cooked),242,27.0,0.0,14.0,Protein,False
+Egg whole boiled,78,6.3,0.6,5.3,Protein,True
+Egg White,17,3.6,0.2,0.1,Protein,True
+Egg Yolk,55,2.7,0.6,4.5,Protein,True
+Scrambled Eggs (2 eggs),182,12.0,1.5,14.0,Protein,True
+Omelette (2 eggs),190,13.0,1.0,15.0,Protein,True
+Tuna (canned),116,25.5,0.0,1.0,Protein,False
+Salmon (cooked),208,20.0,0.0,13.0,Protein,False
+Prawns (cooked),99,21.0,0.0,1.1,Protein,False
+Fish Curry (100g),150,15.0,5.0,8.0,Protein,False
+Rohu Fish (cooked),97,17.0,0.0,3.0,Protein,False
+Mackerel (cooked),205,19.0,0.0,14.0,Protein,False
+Sardines (canned),191,23.0,0.0,11.0,Protein,False
+Crab (cooked),97,19.0,0.0,1.8,Protein,False
+Paneer (100g),265,18.3,1.2,20.8,Protein,True
+Tofu (100g),76,8.0,1.9,4.8,Protein,True
+Moong Dal (cooked),105,7.0,18.0,0.4,Protein,True
+Chana Dal (cooked),164,9.0,27.0,2.6,Protein,True
+Toor Dal (cooked),116,6.8,20.0,0.4,Protein,True
+Urad Dal (cooked),105,7.5,18.0,0.5,Protein,True
+Masoor Dal (cooked),116,9.0,20.0,0.4,Protein,True
+Rajma (cooked),127,8.7,22.8,0.5,Protein,True
+Chole (cooked),164,8.9,27.4,2.6,Protein,True
+Soya Chunks (cooked),112,17.0,8.0,0.5,Protein,True
+Black Eyed Peas,132,8.7,24.0,0.5,Protein,True
+Lentil Soup,99,7.8,17.0,0.4,Protein,True
+Sprouted Moong,30,3.0,5.9,0.2,Protein,True
+Peanuts (100g),567,25.8,16.1,49.2,Protein,True
+Kidney Beans,127,8.7,22.8,0.5,Protein,True
+Milk whole (100ml),61,3.2,4.8,3.3,Dairy,True
+Milk skimmed (100ml),34,3.4,5.0,0.1,Dairy,True
+Milk toned (100ml),44,3.5,4.9,1.5,Dairy,True
+Curd Yogurt (100g),98,11.0,3.4,4.3,Dairy,True
+Greek Yogurt (100g),59,10.0,3.6,0.4,Dairy,True
+Low Fat Curd (100g),60,4.0,6.0,2.0,Dairy,True
+Paneer Bhurji,310,20.0,6.0,22.0,Dairy,True
+Cheese Cheddar (30g),120,7.0,0.4,10.0,Dairy,True
+Cheese Slice (1 slice),80,4.5,1.5,6.5,Dairy,True
+Khoya (100g),421,15.0,25.0,31.0,Dairy,True
+Condensed Milk (1 tbsp),62,1.5,10.4,1.7,Dairy,True
+Butter (1 tsp),36,0.0,0.0,4.1,Dairy,True
+Ghee (1 tsp),45,0.0,0.0,5.0,Dairy,True
+Cream (1 tbsp),52,0.4,0.4,5.6,Dairy,True
+Ice Cream (100g),207,3.5,24.0,11.0,Dairy,True
+Lassi sweet (200ml),150,5.0,22.0,5.0,Dairy,True
+Lassi salted (200ml),90,5.0,8.0,4.0,Dairy,True
+Chaas Buttermilk (200ml),40,3.0,5.0,1.0,Dairy,True
+Shrikhand (100g),245,7.5,32.0,10.0,Dairy,True
+Rabri (100g),198,6.0,22.0,10.0,Dairy,True
+Banana,89,1.1,23.0,0.3,Fruits,True
+Apple,52,0.3,14.0,0.2,Fruits,True
+Mango (100g),60,0.8,15.0,0.4,Fruits,True
+Orange,47,0.9,12.0,0.1,Fruits,True
+Watermelon (100g),30,0.6,7.6,0.2,Fruits,True
+Grapes (100g),69,0.7,18.0,0.2,Fruits,True
+Papaya (100g),43,0.5,11.0,0.3,Fruits,True
+Pomegranate (100g),83,1.7,19.0,1.2,Fruits,True
+Guava (100g),68,2.6,14.0,1.0,Fruits,True
+Pineapple (100g),50,0.5,13.0,0.1,Fruits,True
+Strawberry (100g),32,0.7,7.7,0.3,Fruits,True
+Kiwi (100g),61,1.1,15.0,0.5,Fruits,True
+Chikoo Sapodilla (100g),83,0.4,20.0,1.1,Fruits,True
+Jackfruit (100g),95,1.7,23.0,0.6,Fruits,True
+Litchi (100g),66,0.8,17.0,0.4,Fruits,True
+Pear (100g),57,0.4,15.0,0.1,Fruits,True
+Peach (100g),39,0.9,10.0,0.3,Fruits,True
+Plum (100g),46,0.7,11.0,0.3,Fruits,True
+Coconut fresh (100g),354,3.3,15.0,33.0,Fruits,True
+Dates (100g),277,1.8,75.0,0.2,Fruits,True
+Figs (100g),74,0.8,19.0,0.3,Fruits,True
+Amla (100g),44,0.9,10.0,0.6,Fruits,True
+Jamun (100g),62,0.7,14.0,0.2,Fruits,True
+Sitaphal Custard Apple (100g),94,2.1,23.0,0.5,Fruits,True
+Tamarind (100g),239,2.8,63.0,0.6,Fruits,True
+Spinach (100g),23,2.9,3.6,0.4,Vegetables,True
+Broccoli (100g),34,2.8,7.0,0.4,Vegetables,True
+Carrot (100g),41,0.9,10.0,0.2,Vegetables,True
+Tomato (100g),18,0.9,3.9,0.2,Vegetables,True
+Onion (100g),40,1.1,9.3,0.1,Vegetables,True
+Potato boiled (100g),87,1.9,20.0,0.1,Vegetables,True
+Sweet Potato (100g),86,1.6,20.0,0.1,Vegetables,True
+Cucumber (100g),16,0.7,3.6,0.1,Vegetables,True
+Cabbage (100g),25,1.3,5.8,0.1,Vegetables,True
+Cauliflower (100g),25,1.9,5.0,0.3,Vegetables,True
+Peas (100g),81,5.4,14.0,0.4,Vegetables,True
+Beans French (100g),31,1.8,7.0,0.1,Vegetables,True
+Bitter Gourd (100g),17,1.0,3.7,0.2,Vegetables,True
+Bottle Gourd (100g),15,0.6,3.4,0.0,Vegetables,True
+Ridge Gourd (100g),20,1.2,4.4,0.1,Vegetables,True
+Drumstick Moringa (100g),37,2.1,8.5,0.2,Vegetables,True
+Bhindi Okra (100g),33,1.9,7.5,0.1,Vegetables,True
+Brinjal Eggplant (100g),25,1.0,5.9,0.2,Vegetables,True
+Capsicum Green (100g),20,0.9,4.6,0.2,Vegetables,True
+Capsicum Red (100g),31,1.0,7.2,0.3,Vegetables,True
+Mushroom (100g),22,3.1,3.3,0.3,Vegetables,True
+Beetroot (100g),43,1.6,10.0,0.2,Vegetables,True
+Radish (100g),16,0.7,3.4,0.1,Vegetables,True
+Corn (100g),86,3.3,19.0,1.4,Vegetables,True
+Raw Banana (100g),122,1.3,31.0,0.4,Vegetables,True
+Yam (100g),118,1.5,28.0,0.2,Vegetables,True
+Colocasia Arbi (100g),112,1.5,26.0,0.2,Vegetables,True
+Lotus Stem (100g),74,2.6,17.0,0.1,Vegetables,True
+Zucchini (100g),17,1.2,3.1,0.3,Vegetables,True
+Pumpkin (100g),26,1.0,6.5,0.1,Vegetables,True
+Masala Dosa,290,6.0,45.0,10.0,Meals,True
+Curd Rice,175,5.0,30.0,4.5,Meals,True
+Sambar (100ml),50,2.5,8.0,1.0,Meals,True
+Rasam (100ml),30,1.0,5.0,0.5,Meals,True
+Avial (100g),120,2.5,12.0,7.0,Meals,True
+Kootu (100g),140,5.0,15.0,7.0,Meals,True
+Poriyal (100g),90,2.0,10.0,5.0,Meals,True
+Vatha Kuzhambu (100ml),80,1.5,8.0,5.0,Meals,True
+Mor Kuzhambu (100ml),60,2.5,6.0,3.0,Meals,True
+Tamarind Rice (100g),190,3.5,36.0,4.5,Meals,True
+Lemon Rice (100g),180,3.0,35.0,4.0,Meals,True
+Coconut Rice (100g),200,3.0,36.0,6.0,Meals,True
+Tomato Rice (100g),170,3.5,33.0,4.0,Meals,True
+Bisi Bele Bath (100g),160,5.5,28.0,4.5,Meals,True
+Vangi Bath (100g),175,3.5,32.0,5.0,Meals,True
+Kerala Fish Curry (100g),165,16.0,5.0,9.0,Meals,False
+Chettinad Chicken (100g),220,22.0,6.0,13.0,Meals,False
+Pepper Chicken (100g),210,23.0,4.0,12.0,Meals,False
+Egg Masala (100g),195,12.0,7.0,14.0,Meals,False
+Chicken 65 (100g),250,22.0,10.0,14.0,Meals,False
+Dal Tadka,198,10.0,28.0,6.0,Meals,True
+Dal Makhani,240,11.0,28.0,10.0,Meals,True
+Palak Paneer,243,12.0,10.0,18.0,Meals,True
+Paneer Butter Masala,290,13.0,12.0,22.0,Meals,True
+Matar Paneer,260,12.0,15.0,18.0,Meals,True
+Aloo Matar,150,4.0,22.0,6.0,Meals,True
+Aloo Gobi,130,3.5,18.0,6.0,Meals,True
+Baingan Bharta,110,3.0,12.0,6.5,Meals,True
+Rajma Masala,170,9.0,26.0,4.5,Meals,True
+Chole Masala,185,9.5,28.0,5.5,Meals,True
+Chicken Curry,280,22.0,8.0,18.0,Meals,False
+Butter Chicken,290,24.0,9.0,18.0,Meals,False
+Chicken Biryani (1 plate),450,22.0,58.0,14.0,Meals,False
+Veg Biryani (1 plate),350,8.0,60.0,10.0,Meals,True
+Mutton Rogan Josh (100g),300,23.0,6.0,21.0,Meals,False
+Egg Curry,210,13.0,7.0,15.0,Meals,False
+Kadai Paneer (100g),270,13.0,11.0,20.0,Meals,True
+Shahi Paneer (100g),310,13.0,12.0,24.0,Meals,True
+Mix Veg Curry,120,4.0,14.0,6.0,Meals,True
+Saag (100g),90,4.0,9.0,5.0,Meals,True
+Samosa (1 piece),262,4.0,28.0,15.0,Snacks,True
+Vada (1 piece),97,2.5,10.0,5.5,Snacks,True
+Medu Vada,130,4.0,14.0,7.0,Snacks,True
+Pakora (2 pieces),180,4.0,20.0,10.0,Snacks,True
+Pani Puri (6 pieces),180,3.5,28.0,6.0,Snacks,True
+Bhel Puri (1 serving),180,4.5,30.0,5.0,Snacks,True
+Pav Bhaji (1 serving),390,9.0,55.0,16.0,Snacks,True
+Vada Pav,290,7.0,42.0,11.0,Snacks,True
+Kachori (1 piece),270,5.0,32.0,14.0,Snacks,True
+Dhokla (2 pieces),160,6.0,28.0,3.5,Snacks,True
+Popcorn (30g),110,3.5,22.0,1.5,Snacks,True
+Potato Chips (30g),152,2.0,15.0,10.0,Snacks,True
+Biscuits (2 pieces),100,1.5,16.0,4.0,Snacks,True
+Marie Biscuit (4 pieces),120,2.5,22.0,3.0,Snacks,True
+Rusk (2 pieces),140,3.0,26.0,3.5,Snacks,True
+Murukku (30g),150,2.5,20.0,7.0,Snacks,True
+Chakli (30g),145,2.5,18.0,7.5,Snacks,True
+Mixture (30g),155,3.5,18.0,8.0,Snacks,True
+Chivda (30g),130,3.0,18.0,6.0,Snacks,True
+Sev (30g),160,4.5,18.0,8.5,Snacks,True
+Roasted Chana (30g),110,7.0,15.0,2.0,Snacks,True
+Almonds (30g),174,6.4,6.5,15.0,Snacks,True
+Cashews (30g),166,5.5,9.1,13.2,Snacks,True
+Walnuts (30g),196,4.6,4.1,19.6,Snacks,True
+Pista (30g),171,6.3,8.5,13.7,Snacks,True
+Peanut Butter 1 tbsp,94,4.0,3.1,8.0,Snacks,True
+Bread Omelette,280,14.0,22.0,15.0,Snacks,True
+Sandwich Veg,220,7.0,32.0,7.5,Snacks,True
+Sandwich Chicken,280,18.0,30.0,9.0,Snacks,False
+Gulab Jamun (1 piece),175,3.0,30.0,5.5,Sweets,True
+Rasgulla (1 piece),106,3.0,21.0,1.5,Sweets,True
+Jalebi (100g),370,3.5,72.0,8.0,Sweets,True
+Kheer (100g),165,4.5,26.0,5.5,Sweets,True
+Halwa Suji (100g),330,4.5,52.0,12.0,Sweets,True
+Gajar Halwa (100g),320,5.0,46.0,13.0,Sweets,True
+Ladoo Besan (1 piece),190,4.0,28.0,8.0,Sweets,True
+Ladoo Boondi (1 piece),165,2.5,26.0,6.0,Sweets,True
+Barfi (1 piece),130,3.0,20.0,5.0,Sweets,True
+Peda (1 piece),120,3.0,18.0,4.5,Sweets,True
+Mysore Pak (1 piece),210,3.0,26.0,11.0,Sweets,True
+Payasam (100ml),180,4.0,28.0,6.0,Sweets,True
+Palkova (100g),395,9.0,55.0,17.0,Sweets,True
+Milk Cake (100g),360,8.0,52.0,14.0,Sweets,True
+Kulfi (1 piece),145,4.0,20.0,6.0,Sweets,True
+Banana Shake homemade,220,6.0,40.0,4.0,Drinks,True
+Mango Lassi (200ml),180,5.0,30.0,5.0,Drinks,True
+Coconut Water (200ml),38,0.6,9.0,0.2,Drinks,True
+Buttermilk (200ml),40,3.0,5.0,1.0,Drinks,True
+Tea with milk (150ml),37,1.5,4.5,1.5,Drinks,True
+Coffee with milk (150ml),40,1.5,5.0,1.5,Drinks,True
+Black Coffee (150ml),5,0.3,0.8,0.0,Drinks,True
+Green Tea (150ml),3,0.2,0.5,0.0,Drinks,True
+Orange Juice (200ml),90,1.4,21.0,0.2,Drinks,True
+Apple Juice (200ml),94,0.2,24.0,0.2,Drinks,True
+Sugarcane Juice (200ml),100,0.4,25.0,0.2,Drinks,True
+Nimbu Pani (200ml),50,0.2,13.0,0.1,Drinks,True
+Jaljeera (200ml),45,0.5,11.0,0.2,Drinks,True
+Aam Panna (200ml),80,0.5,20.0,0.1,Drinks,True
+Rose Milk (200ml),140,4.0,22.0,4.0,Drinks,True
+Badam Milk (200ml),160,6.0,20.0,6.0,Drinks,True
+Protein Shake (200ml),160,25.0,8.0,3.0,Drinks,True
+Horlicks (200ml),135,5.5,22.0,3.0,Drinks,True
+Bournvita (200ml),145,5.0,24.0,3.5,Drinks,True
+Masala Chai (150ml),55,2.0,7.0,2.0,Drinks,True
+Cold Coffee (200ml),120,4.0,16.0,4.5,Drinks,True
+Thandai (200ml),200,6.0,28.0,8.0,Drinks,True
+Burger Veg,310,9.0,42.0,13.0,Fast Food,True
+Burger Chicken,380,20.0,40.0,17.0,Fast Food,False
+Pizza Veg (1 slice),200,8.0,26.0,8.0,Fast Food,True
+Pizza Chicken (1 slice),230,12.0,26.0,10.0,Fast Food,False
+French Fries (medium),365,4.0,48.0,17.0,Fast Food,True
+Masala Fries,380,4.5,50.0,18.0,Fast Food,True
+Paneer Roll,340,13.0,42.0,14.0,Fast Food,True
+Chicken Roll,380,20.0,40.0,16.0,Fast Food,False
+Shawarma Chicken,420,22.0,38.0,19.0,Fast Food,False
+Spring Roll (2 pieces),200,4.0,26.0,9.0,Fast Food,True
+Noodles Veg,290,8.0,48.0,8.0,Fast Food,True
+Fried Rice Veg,310,7.0,52.0,9.0,Fast Food,True
+Fried Rice Chicken,360,15.0,50.0,11.0,Fast Food,False
+Manchurian Veg (100g),190,5.0,22.0,10.0,Fast Food,True
+Momos Veg (6 pieces),250,8.0,38.0,7.0,Fast Food,True
+Momos Chicken (6 pieces),290,16.0,35.0,9.0,Fast Food,False
+Olive Oil 1 tbsp,119,0.0,0.0,13.5,Oils,True
+Coconut Oil 1 tbsp,117,0.0,0.0,13.6,Oils,True
+Sunflower Oil 1 tbsp,120,0.0,0.0,13.6,Oils,True
+Mustard Oil 1 tbsp,124,0.0,0.0,14.0,Oils,True
+Sesame Oil 1 tbsp,120,0.0,0.0,13.6,Oils,True
+Sugar 1 tsp,16,0.0,4.2,0.0,Oils,True
+Honey 1 tsp,21,0.1,5.7,0.0,Oils,True
+Tomato Ketchup 1 tbsp,17,0.2,4.0,0.0,Oils,True
+Mayonnaise 1 tbsp,94,0.1,0.4,10.3,Oils,True
+Coconut Chutney 2 tbsp,80,1.5,5.0,6.5,Oils,True
+Mint Chutney 2 tbsp,20,0.8,3.5,0.3,Oils,True
+Tamarind Chutney 1 tbsp,35,0.2,9.0,0.1,Oils,True
+Whey Protein 1 scoop,120,24.0,3.0,1.5,Supplements,True
+Casein Protein 1 scoop,130,25.0,4.0,1.0,Supplements,True
+Mass Gainer 1 scoop,400,20.0,72.0,5.0,Supplements,True
+Protein Bar,200,20.0,22.0,7.0,Supplements,True
+BCAA drink (200ml),10,2.5,0.5,0.0,Supplements,True
+Creatine 1 scoop,5,0.0,1.0,0.0,Supplements,True
+Pre Workout 1 scoop,20,0.0,5.0,0.0,Supplements,True
+Energy Bar,220,8.0,36.0,6.0,Supplements,True
+Granola Bar,190,4.0,30.0,7.0,Supplements,True
+Peanut Chikki (30g),145,4.5,18.0,7.0,Supplements,True
+Sevai Rice Noodles (100g),175,3.0,38.0,1.0,Grains,True
+Sabudana Khichdi (100g),210,2.5,40.0,5.0,Grains,True
+Sabudana Vada (1 piece),180,3.0,28.0,7.0,Grains,True
+Thepla (1 piece),115,3.5,17.0,4.0,Grains,True
+Missi Roti,120,4.5,19.0,3.5,Grains,True
+Makki Roti,110,3.0,22.0,2.0,Grains,True
+Tandoori Roti,115,4.0,20.0,2.5,Grains,True
+Rumali Roti,100,3.0,18.0,2.0,Grains,True
+Pasta boiled (100g),131,5.0,25.0,1.1,Grains,True
+Maggi Noodles (1 pack),350,8.0,50.0,14.0,Grains,True
+Bread Rolls (1 piece),90,3.0,17.0,1.5,Grains,True
+Garlic Bread (1 slice),150,3.5,20.0,7.0,Grains,True
+Wheat Bran (30g),63,4.5,18.0,1.3,Grains,True
+Quinoa cooked (100g),120,4.4,21.0,1.9,Grains,True
+Barley cooked (100g),123,2.3,28.0,0.4,Grains,True
+Millet Foxtail cooked (100g),119,3.5,23.0,1.0,Grains,True
+Broken Wheat Dalia (100g),130,4.5,26.0,0.6,Grains,True
+Suji Halwa (100g),300,4.0,46.0,12.0,Grains,True
+Bread Upma (100g),190,5.0,30.0,6.0,Grains,True
+Oats Porridge (100g),68,2.4,12.0,1.4,Grains,True
+Chicken Kebab (100g),195,24.0,3.0,10.0,Protein,False
+Seekh Kebab (100g),220,22.0,4.0,13.0,Protein,False
+Shami Kebab (1 piece),165,12.0,8.0,10.0,Protein,False
+Boiled Chicken (100g),150,28.0,0.0,4.0,Protein,False
+Grilled Fish (100g),120,22.0,0.0,4.0,Protein,False
+Fish Fry (100g),200,20.0,5.0,12.0,Protein,False
+Prawn Masala (100g),140,18.0,5.0,6.0,Protein,False
+Egg Bhurji (2 eggs),200,14.0,3.0,15.0,Protein,True
+Tofu Scramble (100g),90,9.0,3.0,5.0,Protein,True
+"Mixed Dal (cooked, 100g)",120,8.0,20.0,1.5,Protein,True
+Sprouts Salad (100g),50,4.0,8.0,0.5,Protein,True
+Soya Milk (200ml),80,7.0,8.0,2.0,Protein,True
+Tempeh (100g),193,19.0,9.4,11.0,Protein,True
+Edamame (100g),122,11.0,10.0,5.0,Protein,True
+Chickpea Salad (100g),145,7.5,22.0,3.5,Protein,True
+Palak Saag (100g),26,2.5,3.6,0.5,Vegetables,True
+Methi Leaves (100g),49,4.4,6.0,0.9,Vegetables,True
+Curry Leaves (10g),12,0.3,2.5,0.1,Vegetables,True
+Amaranth Leaves (100g),23,2.5,4.0,0.3,Vegetables,True
+Drumstick Leaves (100g),64,6.7,8.3,1.7,Vegetables,True
+Ash Gourd (100g),13,0.4,3.0,0.1,Vegetables,True
+Snake Gourd (100g),18,0.5,3.9,0.1,Vegetables,True
+Tinda Indian Round Gourd (100g),21,0.7,4.5,0.1,Vegetables,True
+Cluster Beans Guar (100g),16,1.4,2.9,0.4,Vegetables,True
+Ivy Gourd Kovakkai (100g),18,1.2,3.1,0.1,Vegetables,True
+Tapioca Cassava (100g),160,1.4,38.0,0.3,Vegetables,True
+Raw Jackfruit (100g),51,1.5,11.0,0.1,Vegetables,True
+Banana Flower (100g),51,1.7,11.0,0.6,Vegetables,True
+Colocasia Leaves (100g),57,3.9,10.0,0.7,Vegetables,True
+Coriander Leaves (10g),2,0.2,0.4,0.0,Vegetables,True
+Keerai Kootu (100g),100,4.5,10.0,5.0,Meals,True
+Paruppu Usili (100g),130,6.5,12.0,7.0,Meals,True
+Thayir Sadam (100g),150,5.0,25.0,4.0,Meals,True
+Kothu Parotta (100g),280,8.0,38.0,12.0,Meals,True
+Egg Kothu Parotta (100g),320,14.0,38.0,14.0,Meals,False
+Chicken Kothu Parotta (100g),360,20.0,38.0,16.0,Meals,False
+Parotta plain (1 piece),220,4.5,32.0,9.0,Meals,True
+Paya Soup (100ml),90,8.0,4.0,5.0,Meals,False
+Haleem (100g),180,14.0,16.0,7.0,Meals,False
+Nihari (100g),210,16.0,8.0,13.0,Meals,False
+Puliyodarai (100g),185,3.5,35.0,4.5,Meals,True
+Aval Upma (100g),170,3.0,32.0,4.0,Meals,True
+Kuzhi Paniyaram (3 pieces),180,4.5,28.0,6.0,Meals,True
+Thalipeeth (1 piece),195,5.5,30.0,6.5,Meals,True
+Zunka (100g),160,6.0,18.0,8.0,Meals,True
+Misal Pav (1 serving),400,14.0,58.0,13.0,Meals,True
+Poha Chivda (30g),120,2.0,20.0,4.5,Meals,True
+Shira (100g),320,4.5,50.0,12.0,Meals,True
+Paneer Tikka (100g),240,16.0,8.0,17.0,Meals,True
+Malai Kofta (100g),295,10.0,18.0,21.0,Meals,True
+Navratan Korma (100g),210,7.0,18.0,13.0,Meals,True
+Dum Aloo (100g),175,4.0,24.0,8.0,Meals,True
+Bombay Duck Fry (100g),130,16.0,4.0,6.0,Meals,False
+Gongura Chicken (100g),215,21.0,5.0,13.0,Meals,False
+Chicken Sukka (100g),225,22.0,5.0,14.0,Meals,False
+Neer Dosa (1 piece),55,1.2,11.0,0.8,Meals,True
+Sannas (1 piece),95,2.5,18.0,1.5,Meals,True
+Pathiri (1 piece),100,2.0,20.0,1.5,Meals,True
+Erissery (100g),130,4.0,18.0,6.0,Meals,True
+Thoran (100g),105,2.5,10.0,6.5,Meals,True
+Roasted Makhana (30g),105,3.5,20.0,1.0,Snacks,True
+Chikki Peanut (30g),145,4.5,18.0,7.0,Snacks,True
+Chikki Sesame (30g),155,3.5,17.0,9.0,Snacks,True
+Aloo Tikki (1 piece),130,2.5,18.0,6.0,Snacks,True
+Dahi Vada (1 piece),160,6.0,20.0,7.0,Snacks,True
+Sev Puri (4 pieces),200,4.5,28.0,9.0,Snacks,True
+Dabeli (1 piece),280,6.0,42.0,10.0,Snacks,True
+Ragda Patties (1 serving),320,9.0,48.0,11.0,Snacks,True
+Corn Chaat (1 serving),150,4.0,28.0,3.5,Snacks,True
+Fruit Chaat (100g),70,1.0,17.0,0.3,Snacks,True
+Boiled Corn (1 cob),132,5.0,29.0,1.8,Snacks,True
+Roasted Peanuts (30g),166,7.5,5.0,14.0,Snacks,True
+Trail Mix (30g),160,4.5,16.0,10.0,Snacks,True
+Rice Crackers (30g),115,2.0,24.0,1.5,Snacks,True
+Mathri (2 pieces),180,3.0,22.0,9.0,Snacks,True
+Nimki (30g),165,2.5,20.0,9.0,Snacks,True
+Chana Jor Garam (30g),120,6.0,16.0,3.5,Snacks,True
+Kurkure (30g),155,1.5,19.0,8.5,Snacks,True
+Cheese Balls (30g),155,2.0,17.0,9.0,Snacks,True
+Dark Chocolate (30g),170,2.0,18.0,12.0,Snacks,True
+Motichoor Ladoo (1 piece),180,3.0,28.0,7.0,Sweets,True
+Rava Ladoo (1 piece),175,3.5,26.0,7.5,Sweets,True
+Coconut Ladoo (1 piece),130,2.0,17.0,7.0,Sweets,True
+Sandesh (1 piece),115,4.5,16.0,4.5,Sweets,True
+Rasmalai (1 piece),140,5.5,18.0,5.5,Sweets,True
+Kalakand (100g),340,9.0,42.0,15.0,Sweets,True
+Imarti (1 piece),200,3.0,35.0,6.5,Sweets,True
+Ghevar (1 piece),260,4.0,38.0,11.0,Sweets,True
+Balushahi (1 piece),220,3.0,30.0,11.0,Sweets,True
+Til Gajak (30g),155,3.0,18.0,9.0,Sweets,True
+Anarsa (1 piece),185,2.5,30.0,7.0,Sweets,True
+Puran Poli (1 piece),240,5.5,42.0,6.5,Sweets,True
+Modak (1 piece),175,3.0,28.0,6.0,Sweets,True
+Patishapta (1 piece),165,4.0,26.0,5.5,Sweets,True
+Malpua (1 piece),200,3.5,32.0,7.5,Sweets,True
+Pineapple Juice (200ml),100,0.5,25.0,0.1,Drinks,True
+Pomegranate Juice (200ml),134,1.0,34.0,0.7,Drinks,True
+Watermelon Juice (200ml),50,0.8,12.0,0.2,Drinks,True
+Carrot Juice (200ml),80,1.5,19.0,0.3,Drinks,True
+Beetroot Juice (200ml),86,2.0,20.0,0.4,Drinks,True
+Spinach Juice (200ml),42,3.5,6.5,0.5,Drinks,True
+Sattu Drink (200ml),130,6.0,22.0,2.0,Drinks,True
+Ragi Malt (200ml),140,4.5,26.0,2.5,Drinks,True
+Almond Milk (200ml),60,2.0,8.0,2.5,Drinks,True
+Turmeric Milk (200ml),130,5.0,14.0,6.0,Drinks,True
+Sherbet Rose (200ml),90,0.2,23.0,0.0,Drinks,True
+Kokum Sharbat (200ml),70,0.3,17.0,0.1,Drinks,True
+Kanji (200ml),55,1.5,12.0,0.3,Drinks,True
+Sol Kadhi (200ml),45,1.5,7.0,1.5,Drinks,True
+Nannari Sharbat (200ml),95,0.2,24.0,0.0,Drinks,True
+Paanakam (200ml),80,0.2,20.0,0.0,Drinks,True
+Filter Coffee (150ml),55,2.0,7.0,2.0,Drinks,True
+Sulaimani Tea (150ml),15,0.5,3.5,0.1,Drinks,True
+Kahwa (150ml),20,0.5,4.5,0.2,Drinks,True
+Jigarthanda (200ml),195,5.0,32.0,6.0,Drinks,True
+Doner Kebab wrap,450,24.0,42.0,20.0,Fast Food,False
+Kathi Roll Egg,340,14.0,40.0,15.0,Fast Food,True
+Aloo Tikki Burger,285,7.0,40.0,12.0,Fast Food,True
+Corn Cheese Sandwich,310,10.0,36.0,14.0,Fast Food,True
+Club Sandwich,380,16.0,38.0,18.0,Fast Food,False
+Masala Papad (1 piece),95,4.0,13.0,3.5,Fast Food,True
+Hakka Noodles Veg,305,8.0,50.0,9.0,Fast Food,True
+Schezwan Fried Rice,340,7.5,56.0,11.0,Fast Food,True
+Manchow Soup (200ml),90,4.0,14.0,2.5,Fast Food,True
+Hot and Sour Soup (200ml),80,3.5,13.0,2.0,Fast Food,True
+Paneer Chilli (100g),250,14.0,12.0,17.0,Fast Food,True
+Gobi Manchurian (100g),180,4.0,22.0,9.0,Fast Food,True
+Paneer Wrap,360,14.0,42.0,15.0,Fast Food,True
+Falafel wrap,390,12.0,48.0,18.0,Fast Food,True
+Mulberry (100g),43,1.4,9.8,0.4,Fruits,True
+Lemon (1 piece),17,0.6,5.4,0.2,Fruits,True
+Sweet Lime Mosambi (100g),43,0.8,9.3,0.3,Fruits,True
+Starfruit (100g),31,1.0,6.7,0.3,Fruits,True
+Dragon Fruit (100g),60,1.2,13.0,0.4,Fruits,True
+Avocado (100g),160,2.0,9.0,15.0,Fruits,True
+Blueberry (100g),57,0.7,14.0,0.3,Fruits,True
+Raspberry (100g),52,1.2,12.0,0.7,Fruits,True
+Blackberry (100g),43,1.4,10.0,0.5,Fruits,True
+Passion Fruit (100g),97,2.2,23.0,0.7,Fruits,True
+Raisins (30g),90,0.9,22.0,0.1,Fruits,True
+Prunes (30g),72,0.7,19.0,0.1,Fruits,True
+Apricot (100g),48,1.4,11.0,0.4,Fruits,True
+Cranberry (100g),46,0.4,12.0,0.1,Fruits,True
+Longan (100g),60,1.3,15.0,0.1,Fruits,True
+Paneer Tikka Masala (100g),260,14.0,9.0,19.0,Dairy,True
+Dahi Tadka (100g),80,4.5,6.0,4.5,Dairy,True
+Cheese Paratha (1 piece),320,10.0,36.0,15.0,Dairy,True
+Mozzarella (30g),85,6.3,0.6,6.3,Dairy,True
+Cottage Cheese (100g),98,11.0,3.4,4.3,Dairy,True
+Hung Curd (100g),120,8.5,5.0,7.5,Dairy,True
+Whipped Cream (30g),100,0.6,0.9,10.5,Dairy,True
+Fruit Yogurt (100g),100,4.0,17.0,2.0,Dairy,True
+Flavoured Milk (200ml),130,6.0,19.0,3.5,Dairy,True
+Kheer Vermicelli (100g),175,4.5,28.0,5.5,Dairy,True
+Groundnut Oil 1 tbsp,120,0.0,0.0,13.6,Oils,True
+Palm Oil 1 tbsp,120,0.0,0.0,13.6,Oils,True
+Flaxseed Oil 1 tbsp,120,0.0,0.0,13.6,Oils,True
+Pickle Mango 1 tsp,20,0.1,1.5,1.5,Oils,True
+Pickle Lime 1 tsp,18,0.1,1.2,1.5,Oils,True
+Peanut Chutney 2 tbsp,100,4.0,4.5,8.0,Oils,True
+Garlic Chutney 1 tbsp,30,0.8,4.0,1.2,Oils,True
+Schezwan Sauce 1 tbsp,35,0.5,5.0,1.5,Oils,True
+Soy Sauce 1 tbsp,10,1.0,1.0,0.0,Oils,True
+Vinegar 1 tbsp,3,0.0,0.7,0.0,Oils,True
+Multivitamin Gummy (2 pieces),15,0.0,4.0,0.0,Supplements,True
+Fish Oil Capsule (1g),9,0.0,0.0,1.0,Supplements,False
+Oat Protein Bar,210,18.0,24.0,6.0,Supplements,True
+Soya Protein Powder 1 scoop,110,22.0,4.0,1.0,Supplements,True
+Pea Protein 1 scoop,115,21.0,3.5,2.0,Supplements,True
+Rice Protein 1 scoop,110,20.0,5.0,2.0,Supplements,True
+Spirulina Powder 1 tsp,20,4.0,1.7,0.5,Supplements,True
+Chia Seeds 1 tbsp,58,2.0,5.0,3.7,Supplements,True
+Flaxseeds 1 tbsp,55,1.9,3.0,4.3,Supplements,True
+Hemp Seeds 1 tbsp,57,3.3,1.0,4.5,Supplements,True

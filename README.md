@@ -2,11 +2,14 @@
 
 > *Gotta Track 'Em All!*
 
+**🔗 Live App:** [https://nutridex-calorie-calculator.streamlit.app/](https://nutridex-calorie-calculator.streamlit.app/)
+
 NutriDex is a Pokémon GBA-themed calorie tracking web app built with **Streamlit** and a **K-Nearest Neighbors (KNN) Machine Learning model** that suggests Indian foods based on your daily macro needs.
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red)
 ![ML](https://img.shields.io/badge/ML-KNN%20Model-green)
+![Status](https://img.shields.io/badge/Status-Live-success)
 
 ---
 
